@@ -1,0 +1,6 @@
+﻿Danyi László;Danyi Hanna;Mohácsi Krisztina;Budapest;123 456 789;123456789
+Danyi László;Danyi Viktória;Mohácsi Krisztina;Budapest, 2020.01.30;123 456 7811;123456789
+Jancsi;papagály;ddd;dddd;aédfasdk;éadfjséldf
+Danyi László;Palik László;33;3;3;3
+Varazsdi Zsuzsa;Gipsz jakab;Varazs;Bukarest. 2000.01.01;111;32213
+Danyi László;sadfas;sdf;sdf;sdf;sdf

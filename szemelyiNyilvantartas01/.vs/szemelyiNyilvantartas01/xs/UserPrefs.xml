@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1342A9F7-D427-4490-80C8-0C43E6A2F937}|Default">
+  <MonoDevelop.Ide.ItemProperties.szemelyiNyilvantartas01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="szemelyiNyilvantartas01/Form1.cs">
+    <Files>
+      <File FileName="szemelyiNyilvantartas01/Form1.cs" Line="733" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="szemelyiNyilvantartas01" expanded="True">
+            <Node name="szemelyiNyilvantartas01" expanded="True">
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

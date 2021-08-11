@@ -1,0 +1,74 @@
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe.config
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.pdb
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csprojAssemblyReference.cache
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Form1.resources
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Properties.Resources.resources
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.GenerateResource.cache
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.CoreCompileInputs.cache
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.exe
+C:/Users/Danyi László/source/repos/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.pdb
+/Volumes/KINGSTON/111111111111111111/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.AssemblyReference.cache
+/Volumes/KINGSTON/111111111111111111/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Form1.resources
+/Volumes/KINGSTON/111111111111111111/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Properties.Resources.resources
+/Volumes/KINGSTON/111111111111111111/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.GenerateResource.cache
+/Volumes/KINGSTON/111111111111111111/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.CoreCompileInputs.cache
+/Volumes/KINGSTON/111111111111111111/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.exe
+/Volumes/KINGSTON/111111111111111111/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.pdb
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe.config
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.pdb
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.AssemblyReference.cache
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Form1.resources
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Properties.Resources.resources
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.GenerateResource.cache
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.CoreCompileInputs.cache
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.exe
+/Users/danyilaszlo/Desktop/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.pdb
+/Volumes/KINGSTON/111111111111111111/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.AssemblyReference.cache
+/Volumes/KINGSTON/111111111111111111/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Form1.resources
+/Volumes/KINGSTON/111111111111111111/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Properties.Resources.resources
+/Volumes/KINGSTON/111111111111111111/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.GenerateResource.cache
+/Volumes/KINGSTON/111111111111111111/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.CoreCompileInputs.cache
+/Volumes/KINGSTON/111111111111111111/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.exe
+/Volumes/KINGSTON/111111111111111111/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.pdb
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe.config
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.pdb
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.AssemblyReference.cache
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Form1.resources
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Properties.Resources.resources
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.GenerateResource.cache
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.CoreCompileInputs.cache
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.exe
+/Users/danyilaszlo/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.pdb
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe.config
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.pdb
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csprojAssemblyReference.cache
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Form1.resources
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Properties.Resources.resources
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.GenerateResource.cache
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.CoreCompileInputs.cache
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.exe
+C:/Users/Danyi László/Desktop/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.pdb
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe.config
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.exe
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/bin/Debug/szemelyiNyilvantartas01.pdb
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.AssemblyReference.cache
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Form1.resources
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.Properties.Resources.resources
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.GenerateResource.cache
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.csproj.CoreCompileInputs.cache
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.exe
+/Users/danyilaszlo/Desktop/átprogramozott/Belső programozási kódsor/Friss/szemelyiNyilvantartas01/szemelyiNyilvantartas01/obj/Debug/szemelyiNyilvantartas01.pdb
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\bin\Debug\szemelyiNyilvantartas01.exe.config
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\bin\Debug\szemelyiNyilvantartas01.exe
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\bin\Debug\szemelyiNyilvantartas01.pdb
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\obj\Debug\szemelyiNyilvantartas01.csprojAssemblyReference.cache
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\obj\Debug\szemelyiNyilvantartas01.Form1.resources
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\obj\Debug\szemelyiNyilvantartas01.Properties.Resources.resources
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\obj\Debug\szemelyiNyilvantartas01.csproj.GenerateResource.cache
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\obj\Debug\szemelyiNyilvantartas01.csproj.CoreCompileInputs.cache
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\obj\Debug\szemelyiNyilvantartas01.exe
+C:\Users\Danyi László\Desktop\Nyilvántartási adatok\szemelyiNyilvantartas01\szemelyiNyilvantartas01\obj\Debug\szemelyiNyilvantartas01.pdb
